@@ -42,7 +42,7 @@ A Front end developer from Beijing, China.
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white" />
 </p>
 
-::: leight
+:-
 
 ### About My Github Stats
 

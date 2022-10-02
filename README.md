@@ -4,7 +4,7 @@ A Front end developer from Beijing, China.
 
 ### About My Github
 
-![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true)
+![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=400)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### 📈 Activity Graph：
 
@@ -53,6 +53,6 @@ A Front end developer from Beijing, China.
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/2/22, 10:19:11
+最近一次刷新于：10/2/22, 10:26:53
 </p>
   

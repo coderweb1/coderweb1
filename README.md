@@ -6,14 +6,13 @@ A Front end developer from Beijing, China.
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=coderweb1&show_icons=true&theme=radical&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwe1&layout=compact&theme=radical&hide_border=true" alt="" /> |
 
 
 
-<!-- <div align=center>
+<div align=center>
   <img width="400" height="170" src="https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true" />
   <img width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact" />
-</div> -->
+</div>
 
 
 
@@ -67,6 +66,6 @@ A Front end developer from Beijing, China.
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/2/22, 10:38:37
+最近一次刷新于：10/2/22, 10:39:22
 </p>
   

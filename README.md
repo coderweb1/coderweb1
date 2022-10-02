@@ -37,7 +37,8 @@ A Front end developer from Beijing, China.
 
 **Now Coding With**
 
-<p>
+
+&emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -46,7 +47,7 @@ A Front end developer from Beijing, China.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-</p>
+
 
 ---
 
@@ -67,6 +68,6 @@ A Front end developer from Beijing, China.
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/2/22, 12:54:27
+最近一次刷新于：10/2/22, 12:55:33
 </p>
   

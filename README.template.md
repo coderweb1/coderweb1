@@ -8,7 +8,7 @@ A Front end developer from Beijing, China.
 
 这个笨蛋大概对这些东西会用一点点：
 
-**Development**
+**💪Development**
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -26,7 +26,7 @@ A Front end developer from Beijing, China.
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> -->
 </p>
 
-**DevOps**
+**🧠DevOps**
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />

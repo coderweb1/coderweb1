@@ -4,7 +4,16 @@ A Front end developer from Beijing, China.
 
 ### About My Github
 
-![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=400)
+
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true" />
+  <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact" />
+</div>
+
+
+
+
+![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact&card_height=100)](https://github.com/anuraghazra/github-readme-stats)
 ### 📈 Activity Graph：
 

@@ -1,6 +1,10 @@
 # Hi, it's coderweb1! (｡･ω･｡)ﾉ ♡
 
-A Front end developer from Beijing, China.
+>A Front end developer from Beijing, China.
+
+### 📫 Reach me:
+
+- **E-mail** : 321984967@qq.com
 
 ### 🏠 Blog：
 
@@ -64,6 +68,6 @@ A Front end developer from Beijing, China.
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/2/22, 23:01:49
+最近一次刷新于：10/2/22, 23:05:23
 </p>
   

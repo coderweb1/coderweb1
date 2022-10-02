@@ -5,7 +5,7 @@ A Front end developer from Beijing, China.
 ### About My Github
 
 ![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=dracula&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1)](https://github.com/anuraghazra/github-readme-stats)
 ### 📈 Activity Graph：
 
 ![](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)
@@ -53,6 +53,6 @@ A Front end developer from Beijing, China.
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/2/22, 09:08:04
+最近一次刷新于：10/2/22, 09:35:00
 </p>
   

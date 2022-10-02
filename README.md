@@ -42,7 +42,7 @@ A Front end developer from Beijing, China.
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white" />
 </p>
 
-::: leight
+:-
 
 ### About My Github Stats
 
@@ -61,6 +61,6 @@ A Front end developer from Beijing, China.
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/2/22, 11:09:10
+最近一次刷新于：10/2/22, 12:40:15
 </p>
   

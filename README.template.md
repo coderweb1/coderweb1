@@ -4,7 +4,7 @@ A Front end developer from Beijing, China.
 
 ### About My Github
 
-![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=dracula&show_icons=true&count_private=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=dracula&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### 📈 Activity Graph：
 

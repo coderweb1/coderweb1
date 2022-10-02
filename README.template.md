@@ -6,8 +6,8 @@ A Front end developer from Beijing, China.
 
 
 <div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true" />
-  <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact" />
+  <img width="400" height="170" src="https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true" />
+  <img width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact" />
 </div>
 
 

@@ -7,9 +7,6 @@ A Front end developer from Beijing, China.
 ![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true)
 ### About My Most Used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact&card_height=100&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-### 📈 Activity Graph：
-
-![](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)
 
 ### MySkills
 
@@ -49,11 +46,16 @@ A Front end developer from Beijing, China.
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white" />
 </p>
 
+
+### 📈 Activity Graph：
+
+![](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)
+
 ---
 
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/2/22, 10:49:06
+最近一次刷新于：10/2/22, 10:51:46
 </p>
   

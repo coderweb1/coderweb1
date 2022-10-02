@@ -55,7 +55,7 @@
 
 ### About My Github Stats
 
-![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350)
+![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350&include_all_commits)
 
 ---
 ### About My Most Used languages
@@ -70,6 +70,6 @@
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/2/22, 23:05:56
+最近一次刷新于：10/3/22, 01:05:47
 </p>
   

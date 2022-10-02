@@ -43,7 +43,7 @@ A Front end developer from Beijing, China.
 </p>
 ### About My Github Stats
 
-![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true)
+![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350)
 ### About My Most Used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact&card_height=100&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 

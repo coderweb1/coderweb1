@@ -5,7 +5,7 @@ A Front end developer from Beijing, China.
 ### About My Github
 
 ![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=dracula&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&layout=compact&theme=buefy&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ### 📈 Activity Graph：
 
 ![](https://activity-graph.herokuapp.com/graph?username=coderweb1&theme=react-dark)

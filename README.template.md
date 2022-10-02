@@ -55,7 +55,7 @@
 
 ### About My Github Stats
 
-![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350)
+![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350&include_all_commits)
 
 ---
 ### About My Most Used languages

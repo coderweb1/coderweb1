@@ -50,6 +50,7 @@
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![A~{NT}1CWY6WNLIENH1J4L8](https://user-images.githubusercontent.com/44573106/193484957-fb6d0f10-0c11-447e-bbdc-ebdd4db444f3.jpg)
 
 ---
 

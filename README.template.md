@@ -57,7 +57,7 @@
 ### About My Github Stats
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350&include_all_commits" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350&include_all_commits" alt="" /> | <img align="center" src="https://user-images.githubusercontent.com/44573106/193484957-fb6d0f10-0c11-447e-bbdc-ebdd4db444f3.jpg" alt="" /> |
 
 
 ![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350&include_all_commits)

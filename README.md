@@ -57,7 +57,7 @@
 ### About My Github Stats
 
 ![coderweb1's github stats](https://github-readme-stats.vercel.app/api?username=coderweb1&theme=radical&show_icons=true&count_private=true&card_width=350&include_all_commits)
-<img src="https://user-images.githubusercontent.com/44573106/193484957-fb6d0f10-0c11-447e-bbdc-ebdd4db444f3.jpg" style="max-width:100%;max-height:100%" />
+<img src="https://user-images.githubusercontent.com/44573106/193484957-fb6d0f10-0c11-447e-bbdc-ebdd4db444f3.jpg" style="max-width:100%;max-height:100%;display::inline-block" />
 ---
 ### About My Most Used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderweb1&theme=radical&show_icons=true&layout=compact&card_height=100&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -71,6 +71,6 @@
 
 <p align="center">此文件 <i>README</i> <b>间隔 12 小时</b>自动刷新生成！
 </br>
-最近一次刷新于：10/3/22, 09:15:57
+最近一次刷新于：10/3/22, 09:20:23
 </p>
   

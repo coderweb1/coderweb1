@@ -2,9 +2,9 @@
 
 >A Front end developer from Beijing, China.
 
-### 📫 Reach me:
+<!-- ### 📫 Reach me:
 
-- **E-mail** : 321984967@qq.com
+- **E-mail** : 321984967@qq.com -->
 
 <!-- ### 🏠 Blog：
 
